@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Festive Candy Wonderland Bucket",
+      "price": 249,
+      "description": "Filled with an assortment of holiday sweets, this colorful Christmas candy bucket is the perfect gift for sweet tooths. A delightful treat for all ages, sure to spread holiday cheer!",
+      "image": "src/assets/p3.png"
+    },
+    {
+        "id": 2,
+        "name": "Jolly Santa's Sweet Bucket",
+        "price": 249,
+        "description": "Celebrate the season with this festive candy bucket, overflowing with delicious Christmas treats. A fun and sweet way to enjoy the holidays, perfect for gift-giving or as a family treat.",
+        "image": "src/assets/p4.webp"
+      },
+      {
+        "id": 3,
+        "name": "Winter Treats Candy Bucket",
+        "price": 249,
+        "description": "A charming holiday bucket filled with classic Christmas candies, perfect for sharing with loved ones. Make your festivities extra sweet with this seasonal gift everyone will enjoy.",
+        "image": "src/assets/p5.webp"
+      }
+  ]
+  
